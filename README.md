@@ -1,6 +1,6 @@
 
 ### Estudante de Sistemas de informação 💻
-###Futuro desenvolvedor Front-end 🔥
+### Futuro desenvolvedor Front-end 🔥
 
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-machado-a5b515207/)
