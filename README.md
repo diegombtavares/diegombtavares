@@ -24,13 +24,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
  
 <div align="center">
 
-  <h3 align="center">My Github stats</h3>
+  <h3 align="center">Github Status</h3>
   <a href="https://github.com/diegombtavares">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diegombtavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcorvino1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegombtavares&layout=compact&langs_count=7&theme=tokyonight"/>
    
 <div align="center"> 
-  <a href = "mailto:rafael.corvino2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diegotavares.infra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-diegombtavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
