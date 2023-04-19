@@ -1,6 +1,6 @@
 </div>
 
-<p align="center">
+<h1 align="center">
  <h1>Analista de infraestrutura Jr</h1>
 
 ##
