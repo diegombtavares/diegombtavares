@@ -8,7 +8,16 @@
 <h3 align="center">Technology Stack</h3>
   <div align="center">
  <img align="center" alt="python" height="30" width="40"  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" alt="linux" height="30" width="40"
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img align="center" alt="docker" height="30" width="40"
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+ <img align="center" alt="postgres" height="30" width="40"  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+ <img align="center" alt="aws" height="30" width="40"  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+
 
 <div align="center">
 
