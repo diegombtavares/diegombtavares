@@ -18,5 +18,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegombtavares" target="_blank" /></a>
 <a href="https://instagram.com/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="diegombtavares" /></a>
-<a href = "mailtodiegotavares.infra"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailtodiegotavares.infra" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 <!-- SOCIAL MEDIAS END --> 
