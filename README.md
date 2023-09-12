@@ -18,5 +18,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegombtavares" target="_blank" /></a>
 <a href="https://instagram.com/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="diegombtavares" /></a>
-<a href="http://wa.me/5514998921088" target="blank"><img align="center" src="https://img.shields.io/badge/-whatsapp-4af23?style=for-the-badge&logo=whatsapp&logoColor=white" alt="diegombtavares" target="_blank" /></a>
 <!-- SOCIAL MEDIAS END --> 
