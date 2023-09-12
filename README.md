@@ -3,8 +3,6 @@
 <h1 align="center">
  Analista de infraestrutura</h1>
 
-##
-
 <h3 align="center">Technology Stack</h3>
   <div align="center">
  <img align="center" alt="python" height="30" width="40"  
