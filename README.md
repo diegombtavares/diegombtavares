@@ -19,9 +19,9 @@
 <div align="center">
 
  <h3 align="center">My Github stats</h3>
- <a href="https://github.com/lucas-saggioro">
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucas-saggioro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-saggioro&layout=compact&langs_count=7&theme=tokyonight"/>
+ <a href="https://github.com/diegombtavares">
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diegombtavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegombtavares&layout=compact&langs_count=7&theme=tokyonight"/>
    
 <div align="center"> 
   <a href = "mailto:diegotavares.infra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
