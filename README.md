@@ -8,9 +8,6 @@
   <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<div style="text-align: center;">
-  <i class="fa-brands fa-aws" style="color: #f79400; font-size: 30px; width: 40px; height: 30px; line-height: 40px;"></i>
-</div>
 <!-- TECHNOLOGY STACK END -->
 <br><br>
 <!-- SOCIAL MEDIAS --> 
