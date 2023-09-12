@@ -5,6 +5,8 @@
 
 ##
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Um projeto incrível que faz coisas incríveis! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 <h3 align="center">Technology Stack</h3>
   <div align="center">
  <img align="center" alt="python" height="30" width="40"  
