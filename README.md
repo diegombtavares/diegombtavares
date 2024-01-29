@@ -11,7 +11,11 @@
 </div>
 <!-- TECHNOLOGY STACK END -->
 
+<!-- ESTATISTICS -->
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=diegombtavares&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
+</div>
+<!-- ESTATISTICS END -->
 
 <!-- SOCIAL MEDIAS --> 
 <p align="center" style="margin-top: 20px;">
