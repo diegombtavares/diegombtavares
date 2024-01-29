@@ -17,10 +17,8 @@
 <h3 align="center">Github Analytics</h3>
 <div align="center">
   <a href="https://github.com/diegombtavares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegombtavares&show_icons=true&layout=compact&langs_count=7&theme=tokyonight" alt="Estatísticas do GitHub" style="margin-bottom: 10px;"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegombtavares&layout=compact&langs_count=7&theme=tokyonight" alt="Estatísticas do GitHub" style="margin-bottom: 10px;"/>
-  </a>
-</div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegombtavares&show_icons=true&layout=compact&langs_count=7&theme=tokyonight" alt="Estatísticas do GitHub"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegombtavares&layout=compact&langs_count=7&theme=tokyonight" alt="Estatísticas do GitHub"/>
 <!-- ESTATISTICS END -->
 
 
