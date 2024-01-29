@@ -1,6 +1,6 @@
 </div>
 
-<h1 align="center"> Infrastructure Analyst | Python Developer </h1>
+<h1 align="center"> Infrastructure Analyst & Python Developer </h1>
 
 <!-- TECHNOLOGY STACK -->
 <h3 align="center">Technology Stack</h3>
