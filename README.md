@@ -13,7 +13,7 @@
 
 <!-- ESTATISTICS -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=diegombtavares&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegombtavares&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!-- ESTATISTICS END -->
 
