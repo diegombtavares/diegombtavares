@@ -21,6 +21,8 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegombtavares&layout=compact&langs_count=7&theme=tokyonight" alt="Estatísticas do GitHub"/>
 <!-- ESTATISTICS END -->
 
+<br> 
+
 <!-- SOCIAL MEDIAS --> 
 <p align="center" style="margin-top: 10px;">
   <a href="https://linkedin.com/in/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegombtavares" target="_blank" /></a>
