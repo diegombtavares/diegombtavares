@@ -11,6 +11,8 @@
 </div>
 <!-- TECHNOLOGY STACK END -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=diegombtavares&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
+
 <!-- SOCIAL MEDIAS --> 
 <p align="center" style="margin-top: 20px;">
   <a href="https://linkedin.com/in/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegombtavares" target="_blank" /></a>
