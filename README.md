@@ -9,7 +9,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" style="margin-right: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" style="margin-right: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" style="margin-right: 5px;">
+  <!-- Ícone do Selenium em verde -->
+  <img class="green-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" style="margin-right: 5px;">
 </div>
+<style>
+    .green-icon {
+        filter: hue-rotate(120deg); /* 120deg corresponde ao verde na escala de cores */
+    }
+</style>
 <!-- TECHNOLOGY STACK END -->
 
 <!-- ESTATISTICS -->
