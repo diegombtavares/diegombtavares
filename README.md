@@ -5,6 +5,10 @@
 <!-- TECHNOLOGY STACK -->
 <h3 align="center">Technology Stack</h3>
 <div align="center">
+  src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vite,vercel,figma,bootstrap,mui" />
+
+  
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" style="margin-right: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" style="margin-right: 5px;">
