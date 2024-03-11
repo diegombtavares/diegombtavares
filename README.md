@@ -6,16 +6,7 @@
 <h3 align="center">Technology Stack</h3>
 <div align="center">
   <img width="550"
-  src="https://skillicons.dev/icons?i=html,css,python" />
-
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" style="margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" style="margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" style="margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" style="margin-right: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" style="margin-right: 5px;">
+  src="https://skillicons.dev/icons?i=html,css,python,docker,aws,azure,git,linux" />
 </div>
 <!-- TECHNOLOGY STACK END -->
 
