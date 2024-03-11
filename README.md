@@ -6,7 +6,7 @@
 <h3 align="center">Technology Stack</h3>
 <div align="center">
   <img width="550"
-  src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vite,vercel,figma,bootstrap,mui" />
+  src="https://skillicons.dev/icons?i=html,css,python" />
 
   
   
