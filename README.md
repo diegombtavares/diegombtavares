@@ -6,7 +6,7 @@
 <h3 align="center">Technology Stack</h3>
 <div align="center">
   <img width="550"
-  src="https://skillicons.dev/icons?i=html,css,docker,git,postman,github,python,flask,aws,azure,linux" />
+  src="https://skillicons.dev/icons?i=html,css,docker,git,postman,github,python,flask,aws,azure,linux,cloudflare" />
 </div>
 <!-- TECHNOLOGY STACK END -->
 
