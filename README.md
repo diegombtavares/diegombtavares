@@ -1,12 +1,12 @@
 </div>
 
-<h1 align="center"> Infrastructure Analyst </h1>
+<h1 align="center"> Cloud Infrastructure Analyst </h1>
 
 <!-- TECHNOLOGY STACK -->
 <h3 align="center">Technology Stack</h3>
 <div align="center">
   <img width="550"
-  src="https://skillicons.dev/icons?i=html,css,docker,git,postman,github,python,flask,aws,azure,linux,cloudflare" />
+  src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,terraform,git,grafana,linux,postman,py" />
 </div>
 <!-- TECHNOLOGY STACK END -->
 
