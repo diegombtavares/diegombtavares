@@ -1,29 +1,23 @@
-</div>
+# 👋 Olá, eu sou o Diego!
 
-<h1 align="center"> Cloud Infrastructure Analyst </h1>
+## 💼 Perfil Profissional
 
-<!-- TECHNOLOGY STACK -->
-<h3 align="center">Technology Stack</h3>
-<div align="center">
-  <img width="550"
-  src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,linux,py,docker,git" />
-</div>
-<!-- TECHNOLOGY STACK END -->
+- ☁️ Estudante de Computação em Nuvem e entusiasta de DevOps
+- 🌱 Apaixonado por Tecnologia e pela automação de processos
+- 🎓 Cursando Sistemas de Informação na Toledo de Ensino
 
-<!-- ESTATISTICS -->
-<h3 align="center">Github Analytics</h3>
-<div align="center">
-  <a href="https://github.com/diegombtavares">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegombtavares&show_icons=true&layout=compact&langs_count=7&theme=tokyonight" alt="Estatísticas do GitHub"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegombtavares&layout=compact&langs_count=7&theme=tokyonight" alt="Estatísticas do GitHub"/>
-<!-- ESTATISTICS END -->
+## 🚀 Habilidades
 
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-<!-- SOCIAL MEDIAS --> 
-<p align="center" style="margin-top: 10px;">
-  <a href="https://linkedin.com/in/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegombtavares" target="_blank" /></a>
-  <a href="https://instagram.com/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="diegombtavares" /></a>
+## ⚙️ Tecnologias:
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,linux,py,docker,git,github,cloudflare)](https://skillicons.dev)
+
+## 📫 Contato
+<p style="margin-top: 10px;">
   <a href="mailto:diegotavares.infra@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegombtavares" target="_blank" /></a>
 </p>
-</div>
-<!-- SOCIAL MEDIAS END -->
+
+## 🛠️ Vamos Trabalhar Juntos
+Estou sempre em busca de novos desafios e colaborações. Se você tem um projeto interessante ou quer conversar sobre DevOps e Cloud, sinta-se à vontade para entrar em contato. Vamos construir algo incrível juntos! 🌟
