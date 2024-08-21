@@ -4,7 +4,7 @@
 
 - ☁️ Estudante de Computação em Nuvem e entusiasta de DevOps
 - 🌱 Apaixonado por Tecnologia e pela automação de processos
-- 🎓 Cursando Sistemas de Informação na Toledo de Ensino
+- 🎓 Cursando Sistemas de Informação na Instituição Toledo de Ensino
 
 ## 🚀 Habilidades
 
