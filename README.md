@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- ☁️ Estudante de Computação em Nuvem e entusiasta de DevOps
+- ☁️ Aspirante a especialista em Computação em Nuvem, com uma paixão por DevOps
 - 🌱 Apaixonado por Tecnologia e pela automação de processos
 - 🎓 Cursando Sistemas de Informação na Instituição Toledo de Ensino
 
