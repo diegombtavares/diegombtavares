@@ -11,7 +11,7 @@
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ## ⚙️ Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,linux,py,docker,git,github,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,linux,py,docker,git,github,cloudflare,ubuntu)](https://skillicons.dev)
 
 ## 📫 Contato
 <p style="margin-top: 10px;">
