@@ -3,9 +3,10 @@
 ## 💼 Perfil Profissional
 
 - 🔧 DevOps Engineer apaixonado por automação, infraestrutura como código e computação em nuvem
-- ☁️ Especialista em orquestração de ambientes cloud (AWS, Azure, GCP)
+- ☁️ Especialista em orquestração de ambientes cloud (AWS, Azure, GCP, OCI)
 - 🚀 Focado em entregar soluções escaláveis e confiáveis através de práticas DevOps modernas
-- 🎓 Graduando em Sistemas de Informação na Instituição Toledo de Ensino
+- 🎓 Graduado em Sistemas de Informação
+- 🎯 Pós-graduando em Cloud Computing & DevOps
 
 ## 🚀 Minhas Habilidades
 
