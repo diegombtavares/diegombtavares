@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 🔧 DevOps Engineer apaixonado por automação, infraestrutura como código e computação em nuvem
+- 🔧 Engenheiro DevOps apaixonado por automação, infraestrutura como código e computação em nuvem
 - ☁️ Especialista em orquestração de ambientes cloud (AWS, Azure, GCP, OCI)
 - 🚀 Focado em entregar soluções escaláveis e confiáveis através de práticas DevOps modernas
 - 🎓 Graduado em Sistemas de Informação
