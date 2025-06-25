@@ -2,13 +2,14 @@
 
 ## 💼 Perfil Profissional
 
-- ☁️ Aspirante a especialista em Computação em Nuvem e entusiasta de DevOps
-- 🌱 Apaixonado por Tecnologia e pela automação de processos
-- 🎓 Cursando Sistemas de Informação na Instituição Toledo de Ensino
+- 🔧 DevOps Engineer apaixonado por automação, infraestrutura como código e computação em nuvem
+- ☁️ Especialista em orquestração de ambientes cloud (AWS, Azure, GCP)
+- 🚀 Focado em entregar soluções escaláveis e confiáveis através de práticas DevOps modernas
+- 🎓 Graduando em Sistemas de Informação na Instituição Toledo de Ensino
 
-## 🚀 Habilidades
+## 🚀 Minhas Habilidades
 
-Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho diariamente:
 
 ## ⚙️ Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,linux,py,docker,git,github,cloudflare,ubuntu)](https://skillicons.dev)
@@ -16,8 +17,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 ## 📫 Contato
 <p style="margin-top: 10px;">
   <a href="mailto:diegotavares.infra@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/diegombtavares" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegombtavares" target="_blank" /></a>
+  <a href="https://linkedin.com/in/diegombtavares" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diegombtavares" /></a>
 </p>
 
 ## 🛠️ Vamos Trabalhar Juntos
-Estou sempre em busca de novos desafios e colaborações. Se você tem um projeto interessante ou quer conversar sobre DevOps e Cloud, sinta-se à vontade para entrar em contato. Vamos construir algo incrível juntos! 🌟
+
+Estou aberto a colaborações, projetos desafiadores e trocar experiências sobre DevOps, automação e cloud. Me envie uma mensagem e vamos construir algo incrível! 🌟
