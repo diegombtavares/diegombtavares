@@ -1,18 +1,17 @@
-# 👋 Olá, eu sou o Diego!
+  # 👋 Olá, eu sou o Diego!
 
 ## 💼 Sobre Mim
 
 - 🔧 Engenheiro DevOps apaixonado por automação, infraestrutura como código e computação em nuvem  
 - 🚀 Focado em entregar soluções escaláveis e confiáveis com práticas modernas de DevOps  
-- 🎓 Bacharel em Sistemas de Informação
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Sistemas de Informação e em Análise e Desenvolvimento de Sistemas
 - 🎯 Pós-graduando em Cloud Computing & DevOps  
 
 ---
 
 ## ⚙️ Stacks
 
-<div align="center">
+<div align="center">  
 
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img alt="OCI" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
