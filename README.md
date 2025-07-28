@@ -3,9 +3,9 @@
 ## 💼 Sobre Mim
 
 - 🔧 Engenheiro DevOps apaixonado por automação, infraestrutura como código e computação em nuvem  
-- ☁️ Especialista em orquestração de ambientes cloud (AWS, Azure, GCP, OCI)  
 - 🚀 Focado em entregar soluções escaláveis e confiáveis com práticas modernas de DevOps  
-- 🎓 Graduado em Sistemas de Informação  
+- 🎓 Bacharel em Sistemas de Informação
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🎯 Pós-graduando em Cloud Computing & DevOps  
 
 ---
