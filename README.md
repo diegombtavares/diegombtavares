@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙️ Tecnologias que Utilizo
+## ⚙️ Stacks
 
 <div align="center">
 
